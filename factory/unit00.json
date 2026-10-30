@@ -1,0 +1,15 @@
+{
+	"name": "unit00",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "618a1fdd-e0f1-439a-885e-e6ff1edc36d1",
+		"tenantId": "827cad25-f00a-4e15-aa8e-118e2ba41c4a"
+	}
+}
